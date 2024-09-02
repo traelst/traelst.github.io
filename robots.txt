@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://traelst.github.io/sitemap.html.gz
+Sitemap: https://traelst.github.io/app/sitemap.html.gz
+Sitemap: https://traelst.github.io/assets/sitemap.html.gz
+Sitemap: https://traelst.github.io/css/sitemap.html.gz
+Sitemap: https://traelst.github.io/includes/sitemap.html.gz
+Sitemap: https://traelst.github.io/item/sitemap.html.gz
+Sitemap: https://traelst.github.io/src/sitemap.html.gz
